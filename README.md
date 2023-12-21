@@ -1,7 +1,7 @@
 # Timer
 
 Created a Timer using an Hardware provided kit below.
-____image___
+![Image](/emb.jpg)
 
 - Used UART module to display the outputs on a terminal
 - Has the functionalities of a Timer:
