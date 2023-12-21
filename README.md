@@ -1,6 +1,7 @@
 # Timer
 
-Created a Timer using an Hardware provided kit below.
+Developed a Timer App displayed on a PC terminal using UART and Timer peripherals. The app is controlled through push buttons connected to the microcontroller's input ports.
+
 ![Image](/emb.jpg)
 
 1. Used UART module to display the outputs on the pc terminal
